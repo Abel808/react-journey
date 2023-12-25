@@ -1,0 +1,35 @@
+
+
+nav{
+  height: 70px;
+  width: 550px;
+  box-shadow: 0px 3px 7.6px rgba(0, 0, 0, 10%) ;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+
+figure{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+}
+.content{
+  
+  padding-left: 20px;
+}
+.content h1{ 
+   font-size: 36px;
+   font-weight:600 ;
+   margin-bottom: 10px;
+}
+
+.content p{
+  font-weight: 300;
+  line-height: 110%;
+  width: 32ch;
+  color: #222222;
+  
+}
